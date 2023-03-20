@@ -33,7 +33,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Auto_Updater.Form1
+            Me.MainForm = Global.DragonwareUpdater.Form1
         End Sub
     End Class
 End Namespace

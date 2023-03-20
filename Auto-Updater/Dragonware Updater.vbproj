@@ -8,6 +8,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
     <AssemblyName>$(MSBuildProjectName)</AssemblyName>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>
 
   <ItemGroup>
